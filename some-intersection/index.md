@@ -1,0 +1,3 @@
+## Some intersection
+
+Information about the intersection...
